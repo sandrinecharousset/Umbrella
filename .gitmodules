@@ -1,15 +1,19 @@
 [submodule "BinaryKnapsackBlock"]
 	path = BinaryKnapsackBlock
 	url = https://github.com/plan4res/BinaryKnapsackBlock
+	branch = master
 [submodule "BundleSolver"]
 	path = BundleSolver
 	url = https://github.com/plan4res/BundleSolver
+	branch = master
 [submodule "CapacitatedFacilityLocationBlock"]
 	path = CapacitatedFacilityLocationBlock
 	url = https://github.com/plan4res/CapacitatedFacilityLocationBlock
+	branch = master
 [submodule "MILPSolver"]
 	path = MILPSolver
 	url = https://github.com/plan4res/MILPSolver
+	branch = master
 [submodule "SMSplusplus"]
 	path = SMSplusplus
 	url = https://github.com/plan4res/SMSplusplus
