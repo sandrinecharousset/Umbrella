@@ -1,3 +1,6 @@
 [submodule "BinaryKnapsackBlock"]
 	path = BinaryKnapsackBlock
 	url = https://github.com/plan4res/BinaryKnapsackBlock
+[submodule "BundleSolver"]
+	path = BundleSolver
+	url = https://github.com/plan4res/BundleSolver
