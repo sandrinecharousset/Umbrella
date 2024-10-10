@@ -7,3 +7,6 @@
 [submodule "CapacitatedFacilityLocationBlock"]
 	path = CapacitatedFacilityLocationBlock
 	url = https://github.com/plan4res/CapacitatedFacilityLocationBlock
+[submodule "MILPSolver"]
+	path = MILPSolver
+	url = https://github.com/plan4res/MILPSolver
