@@ -4,3 +4,6 @@
 [submodule "BundleSolver"]
 	path = BundleSolver
 	url = https://github.com/plan4res/BundleSolver
+[submodule "CapacitatedFacilityLocationBlock"]
+	path = CapacitatedFacilityLocationBlock
+	url = https://github.com/plan4res/CapacitatedFacilityLocationBlock
