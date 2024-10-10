@@ -50,3 +50,7 @@
 	path = UCBlock
 	url = https://github.com/plan4res/UCBlock
 	branch = master
+[submodule "tests"]
+	path = tests
+	url = https://github.com/plan4res/tests
+	branch = master
