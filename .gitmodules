@@ -17,3 +17,7 @@
 [submodule "SMSplusplus"]
 	path = SMSplusplus
 	url = https://github.com/plan4res/SMSplusplus
+[submodule "InvestmentBlock"]
+	path = InvestmentBlock
+	url = https://github.com/plan4res/InvestmentBlock
+	branch = master
