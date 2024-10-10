@@ -10,3 +10,6 @@
 [submodule "MILPSolver"]
 	path = MILPSolver
 	url = https://github.com/plan4res/MILPSolver
+[submodule "SMSplusplus"]
+	path = SMSplusplus
+	url = https://github.com/plan4res/SMSplusplus
