@@ -21,3 +21,7 @@
 	path = InvestmentBlock
 	url = https://github.com/plan4res/InvestmentBlock
 	branch = master
+[submodule "LagrangianDualSolver"]
+	path = LagrangianDualSolver
+	url = https://github.com/plan4res/LagrangianDualSolver
+	branch = master
