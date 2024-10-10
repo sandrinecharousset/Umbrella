@@ -42,3 +42,7 @@
 	path = SDDPBlock
 	url = https://github.com/plan4res/SDDPBlock
 	branch = master
+[submodule "StochasticBlock"]
+	path = StochasticBlock
+	url = https://github.com/plan4res/StochasticBlock
+	branch = master
