@@ -46,3 +46,7 @@
 	path = StochasticBlock
 	url = https://github.com/plan4res/StochasticBlock
 	branch = master
+[submodule "UCBlock"]
+	path = UCBlock
+	url = https://github.com/plan4res/UCBlock
+	branch = master
