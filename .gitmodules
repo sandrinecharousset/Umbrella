@@ -1,0 +1,3 @@
+[submodule "BinaryKnapsackBlock"]
+	path = BinaryKnapsackBlock
+	url = https://github.com/plan4res/BinaryKnapsackBlock
