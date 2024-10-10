@@ -33,3 +33,7 @@
 	path = MCFBlock
 	url = https://github.com/plan4res/MCFBlock
 	branch = master
+[submodule "MMCFBlock"]
+	path = MMCFBlock
+	url = https://github.com/plan4res/MMCFBlock
+	branch = master
